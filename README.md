@@ -1,7 +1,6 @@
-# kivrosolutions_task2
-  Basic Descriptive Statistics
-
-# Descriptive Statistics & Dataset Summary 
+# kivrosolutions_Task2
+ 
+## Descriptive Statistics & Dataset Summary 
 
 This project is the second task.  
 Using the cleaned dataset from Task 1, I performed basic statistical analysis and dataset summary checks.
@@ -11,14 +10,13 @@ Using the cleaned dataset from Task 1, I performed basic statistical analysis an
 ## Task Objectives
 
 In this task, the following operations were performed:
-
 1. Used the **cleaned dataset** from Task 1
 2. Calculated:
    - Total (Sum)
    - Average (Mean)
    - Minimum
    - Maximum
-   for numeric columns
+      (For Numeric Coloumns)
 3. Generated dataset summary using:
    - `.describe()` for statistical summary
    - `.info()` for data structure overview
